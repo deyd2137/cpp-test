@@ -25,5 +25,6 @@ cout<<"binarnie to:";
 for(i=0;i<10;i++)cout<<t[i];
 cout<<".";
 for(i=0;i<100;i++)cout<<u[i];
+system("pause");
     return 0;
 }
